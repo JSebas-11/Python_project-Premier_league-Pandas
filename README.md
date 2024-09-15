@@ -27,5 +27,5 @@ Próximos pasos:
   Planeo agregar nuevas funcionalidades mostrando datos de manera grafica usando matplotlib y seaborn
   
 Contribuciones:
-  Las contribuciones y el feedback son bienvenidao, si encuentras algún error o tienes alguna sugerencia para optimizar o mejorar el codigo, 
+  Las contribuciones y el feedback son bienvenidos, si encuentras algún error o tienes alguna sugerencia para optimizar o mejorar el codigo, 
   no dudes en abrir un issue o enviar un pull request.
